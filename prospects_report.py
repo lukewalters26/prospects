@@ -29,7 +29,7 @@ Salary: $67,475.77
 
 
 Part 2
-Create a VE and name it test1_ve. Install the library - wordcloud. Once you have done so, run this code and it should produce an image named john.png which
+Create a VE and name it test1_ve. Install the libraries - wordcloud and imageio. Once you have done so, run this code and it should produce an image named john.png which
 represents a word cloud of the most popular words from the book of John in the Bible. Make sure your VE is not in your GitHub repo.
 
 
