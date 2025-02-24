@@ -32,6 +32,16 @@ Part 2
 Create a VE and name it test1_ve. Install the library - wordcloud. Once you have done so, run this code and it should produce an image named john.png which
 represents a word cloud of the most popular words from the book of John in the Bible. Make sure your VE is not in your GitHub repo.
 
+
+Part 3
+Push all your updates to your gitHub repo. Your repo should contain the following 6 files:
+1) book of John text.txt
+2) mask_oval.png
+3) prospects.csv
+4) prospects_report.py
+5) john.png
+6) .gitignore
+
 '''
 import csv
 
